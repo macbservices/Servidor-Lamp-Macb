@@ -1,0 +1,7 @@
+# Logs
+*.log
+/var/log/*
+/tmp/*
+
+# Cloudflare
+/root/.cloudflared/
